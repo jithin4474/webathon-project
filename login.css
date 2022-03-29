@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.back{
+    background-image: url("https://img.freepik.com/free-vector/people-communicating-via-social-media_74855-5551.jpg?t=st=1648489045~exp=1648489645~hmac=68527b42b03ba70401c22e2f32b00bacbda629fc463ab5506cf1a1e1c9db4b27&w=1060");
+    height:100vh;
+    width:100vw
+}
+
+.flex-container-c {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.flex-container-r {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.flex-container-end {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
+.signin-box{
+    border-radius: 10px;
+    background-color: aliceblue;
+    padding:20px;
+    width:25vw;
+    height:max-content;
+}
+
+.form-control{
+    margin:10px;
+}
+
+.imga{
+    margin:10px;
+}
+
+.button{
+    margin:8px;
+}

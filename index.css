@@ -1,0 +1,29 @@
+
+
+navbar {
+  background-color: #f1f1f1;
+
+}
+navbar-nav {
+  float: none;
+}
+navbar-right{
+  float: none;
+}
+
+.images{
+    margin-top:10px;
+    width: 30px;
+    height: 30px;
+}
+.flex-container {
+    display: flex;
+    align-items: stretch;
+}
+.top-buffer{ 
+  margin-top:20px; 
+}
+.images-btn{
+  width: 20px;
+  height: 20px;
+}
